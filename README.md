@@ -30,15 +30,3 @@ If you use or adapt this template for your research, please cite it to support m
 
 **APA Format:**
 Pope, D. (2026). *PsychoPy-SPR-Template* (Version 1.0.0) [Computer software]. GitHub. https://github.com/decpo/psychopy-spr-template
-
-**BibTeX:**
-```bibtex
-@software{your_name_2026_spr_template,
-  author       = {Pope, Decker},
-  title        = {PsychoPy-SPR-Template},
-  month        = oct,
-  year         = 2026,
-  publisher    = {GitHub},
-  version      = {1.0.0},
-  url          = {[https://github.com/](https://github.com/)decpo/psychopy-spr-template}
-}
