@@ -23,7 +23,10 @@ Click the green Run button to test out your experiment locally.
 ## Data Output
 PsychoPy will generate a `data/` folder in the same directory as the experiment file. Each time you run a participant, PsychoPy generates three files: `.csv`, `.log`, and `.psydat`. For running analyses with the statistical software of your choice, you really only care about the `.csv` file. 
 
-PsychoPy, by default, records a ton of information in the `.csv` data file. I have provided an R file template that combines all participant data files and strips unnecessary data. I have also provided some basic analysis scripts.
+PsychoPy, by default, records a ton of information in the `.csv` data file. I have provided an R file template that combines all participant data files and strips unnecessary data.
+
+## Notes
+Sample stimuli in this template come from Frinsel and Christiansen (2024).
 
 ## How to Cite
 If you use or adapt this template for your research, please cite it to support my work.
