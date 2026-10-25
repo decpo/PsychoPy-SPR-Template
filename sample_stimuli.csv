@@ -1,0 +1,10 @@
+﻿item_id,condition,Sentence,Question,CorrectAns
+1,src,The maid that loved the doorman took a break in the hotel lobby,Did the maid love the doorman?,j
+2,filler,The sign by the parking lot with faded markings was replaced by the inspector,Did the inspector replace the sign?,f
+3,filler,The boiling liquids were often cooled in special plastic containers,Were boiling liquids always cooled in special plastic containers?,j
+4,orc,The doctor that the farmer appreciated accepted the prize for promoting healthy food,Did the farmer accept the prize?,j
+5,filler,The signature on the letters was forged by the jealous neighbor,Did the neighbor have permission to sign the letters?,j
+6,filler,The cab driver assumed that the blame belonged to the other driver,Did the cab driver assume something?,f
+7,src,The boy that embarrassed the girl put the books into the locker,Did the boy put the books into the locker? ,f
+8,filler,The glass by the office coffeepot with automatic shutoff was destroyed by the secretary,Did the secretary destroy the coffeepot?,j
+9,filler,The bus driver pretended that the shift was almost over,Did the bus driver pretend something?,f
